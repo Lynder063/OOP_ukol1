@@ -31,5 +31,3 @@ int main() {
     return 0;
 }
 ```
-License
-The Tiny-05 library is released under the MIT License. See the LICENSE file for details.
